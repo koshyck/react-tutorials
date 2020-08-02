@@ -16,7 +16,6 @@ function App() {
       <div>
         <WeatherCard temp={-20} condition="Cloudy" city="London" country="GB" />
       </div>
-      div className="App">
       <div>
         <WeatherCard
           temp={10}
@@ -25,7 +24,6 @@ function App() {
           country="Australia"
         />
       </div>
-      div className="App">
       <div>
         <WeatherCard
           temp={40}
